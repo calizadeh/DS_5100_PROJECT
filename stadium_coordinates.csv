@@ -1,0 +1,54 @@
+﻿team,latitude,longitude,roof,last_season,altitude
+Titans,36.1665,-86.7713,Open,,397
+Giants,40.8122,-74.0770,Open,2009,7
+Giants,40.8122,-74.0770,Open,,7
+Steelers,40.4467,-80.0128,Open,2001,732
+Steelers,40.4468,-80.0158,Open,,732
+Panthers,35.2258,-80.8529,Open,,715
+Ravens,39.2780,-76.6228,Open,,23
+Buccaneers,27.9760,-82.5034,Open,,36
+Colts,39.7636,-86.1633,Fixed,2007,705
+Colts,39.7601,-86.1638,Retractable,,705
+Vikings,44.9739,-93.2581,Fixed,2013,840
+Vikings,44.9760,-93.2250,Open,2015,840
+Vikings,44.9739,-93.2581,Fixed,,840
+Cardinals,33.4265,-111.9326,Open,,1201
+Cardinals,33.5277,-112.2626,Retractable,2005,1070
+Cowboys,32.8300,-96.9110,Open,2008,320
+Cowboys,32.7478,-97.0928,Retractable,,320
+Falcons,33.7576,-84.4010,Fixed,2016,271
+Falcons,33.7576,-84.4010,Retractable,,305
+Jets,40.8122,-74.0770,Open,2009,7
+Jets,40.8122,-74.0770,,,7
+Broncos,39.7461,-105.0217,Open,2000,5280
+Broncos,39.7439,-105.0201,Open,,5280
+Dolphins,25.9579,-80.2388,Open,,10
+Eagles,39.9008,-75.1675,Open,2002,10
+Eagles,39.9008,-75.1675,Open,,10
+Bears,41.8623,-87.6167,Open,,584
+Patriots,42.0909,-71.2644,Open,2002,249
+Patriots,42.0909,-71.2644,Open,,249
+Redskins,38.9077,-76.8645,Open,,190
+Packers,44.5013,-88.0622,Open,,640
+LA Chargers,33.8640,-118.2610,Open,2019,49
+SD Chargers,32.7831,-117.1195,Open,2016,52
+LA Chargers,33.9535,-118.3392,Fixed,,125
+Saints,29.9509,-90.0814,Fixed,,3
+Texans,29.6848,-95.4110,Retractable,,49
+Bills,42.7737,-78.7870,Open,,849
+49ers,37.7136,-122.3861,Open,2013,59
+49ers,37.7135,-122.3863,Open,,16
+Jaguars,30.3239,-81.6374,Open,,23
+Browns,41.5060,-81.6996,Open,,581
+OAK Raiders,37.7514,-122.2009,Open,2019,-21
+LV Raiders,36.0908,-115.1836,Fixed,,3251
+Chiefs,39.0489,-94.4840,Open,,889
+STL Rams,38.6330,-90.1885,Fixed,2015,466
+LA Rams,34.0142,-118.2878,Open,2019,161
+LA Rams,33.9535,-118.3392,Fixed,,125
+Seahawks,47.6503,-122.3017,Open,,16
+Seahawks,47.5952,-122.3316,Open,,16
+Bengals,39.0954,-84.5160,Open,,479
+Lions,42.6408,-83.2530,Fixed,2001,604
+Lions,42.3402,-83.0458,Fixed,,604
+,,,,,
